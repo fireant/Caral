@@ -4,4 +4,4 @@ Caral
 Screenshot
 ----------
 
-![gnuplot window](caral.png "Gnuplot window")
+![gnuplot window](Caral/blob/master/caral.png?raw=true "Gnuplot window")
