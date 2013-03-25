@@ -12,4 +12,4 @@ https://github.com/dkogan/feedgnuplot
 Screenshot
 ----------
 
-![gnuplot window](Caral/blob/master/caral.png?raw=true "Gnuplot window")
+![gnuplot window](https://raw.github.com/fireant/Caral/master/caral.png "Gnuplot window")
